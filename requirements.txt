@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+langchain-chroma
+langchain-huggingface
+python-dotenv
+streamlit
+pypdf
+h5py
